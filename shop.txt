@@ -1,9 +1,9 @@
 Apples
 Bananas 
 Corn
-Dog Food
+more dog Food
 Cereal
 Bread
 Eggs
-Milk
+Water
 
